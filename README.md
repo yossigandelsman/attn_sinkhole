@@ -14,10 +14,13 @@ Large Language Models (LLMs), despite their impressive capabilities, often fail 
 ### BibTeX
 
 ```bibtex
-@inproceedings{
-      yona2025interpreting,
-      title={Interpreting the repeated token phenomenon in LLMs},
+@misc{yona2025interpretingrepeatedtokenphenomenon,
+      title={Interpreting the Repeated Token Phenomenon in Large Language Models}, 
       author={Itay Yona and Ilia Shumailov and Jamie Hayes and Federico Barbero and Yossi Gandelsman},
-      year={2025}
+      year={2025},
+      eprint={2503.08908},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.08908}, 
 }
 ```
